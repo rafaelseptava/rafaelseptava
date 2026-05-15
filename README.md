@@ -1,8 +1,6 @@
 # 💫 About Me:
 ## I'm Rafael Putra Septava  <br>You can call me Afel  <br><br>Software Engineering Student in Telkom University Purwokerto
 
-My Web: https://rafaelseptava.github.io/rafael_septava_web-portofolio/
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaelseptava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajarafaelputraseptava@gmail.com) 
 
